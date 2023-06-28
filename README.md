@@ -34,7 +34,7 @@ Here is a diagram to provide a sense of what the file structure of the project w
 <p align="center">
   <img width="600" src="https://github.com/jairajpatil8/Hosting-static-website-on-s3/blob/main/s3-images/upload.png">
 </p>
-<p>If done have a static website yet use my Portfolio <a href="https://github.com/jairajpatil8/portfolio" target="_blank" rel="noopener"></a></p>
+<p>If done have a static website yet use my <a href="https://github.com/jairajpatil8/portfolio" target="_blank" rel="noopener">Portfolio </a></p>
 
 <b>Step 5 -  Got to properties</b>
 <p align="center">
