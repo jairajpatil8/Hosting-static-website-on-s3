@@ -29,6 +29,7 @@ Here is a diagram to provide a sense of what the file structure of the project w
   <img width="600" src="https://github.com/jairajpatil8/Hosting-static-website-on-s3/blob/main/s3-images/block all.png">
 </p>
 -leave the rest to default and click Create Bucket
+
 <b> Step 4 - Upload file to the bucket</b>
 <p align="center">
   <img width="600" src="https://github.com/jairajpatil8/Hosting-static-website-on-s3/blob/main/s3-images/upload.png">
@@ -54,7 +55,7 @@ Here is a diagram to provide a sense of what the file structure of the project w
 </p>
 - Go to bucket policy and click edit 
 
-'''diff
+''' diff
 {
 	"Version": "2012-10-17",
 	"Statement": [
