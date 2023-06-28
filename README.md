@@ -84,6 +84,7 @@ Here is a diagram to provide a sense of what the file structure of the project w
   <img width="600" src="https://github.com/jairajpatil8/Hosting-static-website-on-s3/blob/main/s3-images/url.png">
 </p>
 - Navigate to Static website hosting, and your should have your AWS Hosted Public URL ready.
+<br>
 - If you followed everything correctly your website should be live .
 
 
