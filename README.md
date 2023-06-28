@@ -13,38 +13,35 @@ Here is a diagram to provide a sense of what the file structure of the project w
   
 <B>Step 1 — Login to your AWS console</B>
  <p align="center">
-  <img width="600" src="">
+  <img width="600" src="https://github.com/jairajpatil8/Hosting-static-website-on-s3/blob/main/s3-images/login.png">
 </p>
 
 <b>Step 2 — Navigate to S3</b>
  <p align="center">
-  <img width="600" src="">
+  <img width="600" src="https://github.com/jairajpatil8/Hosting-static-website-on-s3/blob/main/s3-images/s3.png">
 </p>
 <b>Step 3 - Click on create Bucket</b>
 <p align="center">
-  <img width="600" src="">
+  <img width="600" src="https://github.com/jairajpatil8/Hosting-static-website-on-s3/blob/main/s3-images/create bucket.png">
 </p>
 -Enter Bucket Name
 - Select your Region
 - Unclick Block all public access
 <p align="center">
-  <img width="600" src="">
+  <img width="600" src="https://github.com/jairajpatil8/Hosting-static-website-on-s3/blob/main/s3-images/block_all.png">
 </p>
 -leave the rest to default and click Create Bucket
 <b> Step 4 - Upload file to the bucket</b>
 <p align="center">
-  <img width="600" src="">
+  <img width="600" src="https://github.com/jairajpatil8/Hosting-static-website-on-s3/blob/main/s3-images/upload.png">
 </p>
 
 <b>Step 5 -  Got to properties</b>
 <p align="center">
-  <img width="600" src="">
+  <img width="600" src="https://github.com/jairajpatil8/Hosting-static-website-on-s3/blob/main/s3-images/properties.png">
 </p>
 - Scroll to the end of page you will find Static website hosting
 - Click on Edit
-<p align="center">
-  <img width="600" src="">
-</p>
 - Enable Static website hosting
 -Hosting type:Host a static website
 -Index document: enter your website name (mine is index.html)
@@ -52,12 +49,10 @@ Here is a diagram to provide a sense of what the file structure of the project w
 <b>Setp 6 - Assign Bucket policy</b>
 - Go to permissions
 <p align="center">
-  <img width="600" src="">
+  <img width="600" src="https://github.com/jairajpatil8/Hosting-static-website-on-s3/blob/main/s3-images/permissions.png">
 </p>
 - Go to bucket policy and click edit 
-<p align="center">
-  <img width="600" src="">
-</p>
+
 '''diff
 {
 	"Version": "2012-10-17",
@@ -84,7 +79,7 @@ Here is a diagram to provide a sense of what the file structure of the project w
 - Click Save changes
 <b>Step 7 - Go Back to Properties</b>
 <p align="center">
-  <img width="600" src="">
+  <img width="600" src="https://github.com/jairajpatil8/Hosting-static-website-on-s3/blob/main/s3-images/url.png">
 </p>
 - Navigate to Static website hosting, and your should have your AWS Hosted Public URL ready.
 - If you followed everything correctly your website should be live .
