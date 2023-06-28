@@ -46,9 +46,13 @@ Here is a diagram to provide a sense of what the file structure of the project w
   <img width="600" src="https://github.com/jairajpatil8/Hosting-static-website-on-s3/blob/main/s3-images/create bucket.png">
 </p>
 - Enable Static website hosting
+
 -Hosting type:Host a static website
+
 -Index document: enter your website name (mine is index.html)
+
 - Click save changes
+  
 <b>Setp 6 - Assign Bucket policy</b>
 - Go to permissions
 <p align="center">
