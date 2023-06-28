@@ -21,8 +21,10 @@ To complete this project, you will need the following:
 </p>
 <b>Step 3 - Click on create Bucket</b>
 
--Enter Bucket Name
+- Enter Bucket Name
+
 - Select your Region
+  
 - Unclick Block all public access
 <p align="center">
   <img width="600" src="https://github.com/jairajpatil8/Hosting-static-website-on-s3/blob/main/s3-images/block all.png">
