@@ -21,14 +21,12 @@ Here is a diagram to provide a sense of what the file structure of the project w
   <img width="600" src="https://github.com/jairajpatil8/Hosting-static-website-on-s3/blob/main/s3-images/s3.png">
 </p>
 <b>Step 3 - Click on create Bucket</b>
-<p align="center">
-  <img width="600" src="https://github.com/jairajpatil8/Hosting-static-website-on-s3/blob/main/s3-images/create bucket.png">
-</p>
+
 -Enter Bucket Name
 - Select your Region
 - Unclick Block all public access
 <p align="center">
-  <img width="600" src="https://github.com/jairajpatil8/Hosting-static-website-on-s3/blob/main/s3-images/block_all.png">
+  <img width="600" src="https://github.com/jairajpatil8/Hosting-static-website-on-s3/blob/main/s3-images/block all.png">
 </p>
 -leave the rest to default and click Create Bucket
 <b> Step 4 - Upload file to the bucket</b>
@@ -42,6 +40,9 @@ Here is a diagram to provide a sense of what the file structure of the project w
 </p>
 - Scroll to the end of page you will find Static website hosting
 - Click on Edit
+<p align="center">
+  <img width="600" src="https://github.com/jairajpatil8/Hosting-static-website-on-s3/blob/main/s3-images/create bucket.png">
+</p>
 - Enable Static website hosting
 -Hosting type:Host a static website
 -Index document: enter your website name (mine is index.html)
