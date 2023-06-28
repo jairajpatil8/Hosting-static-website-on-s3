@@ -34,6 +34,7 @@ Here is a diagram to provide a sense of what the file structure of the project w
 <p align="center">
   <img width="600" src="https://github.com/jairajpatil8/Hosting-static-website-on-s3/blob/main/s3-images/upload.png">
 </p>
+<p>If done have a static website yet use my Portfolio <a href="https://github.com/jairajpatil8/portfolio" target="_blank" rel="noopener"></a></p>
 
 <b>Step 5 -  Got to properties</b>
 <p align="center">
@@ -55,7 +56,7 @@ Here is a diagram to provide a sense of what the file structure of the project w
 </p>
 - Go to bucket policy and click edit 
 
-```diff
+''' diff
 {
 	"Version": "2012-10-17",
 	"Statement": [
@@ -68,7 +69,7 @@ Here is a diagram to provide a sense of what the file structure of the project w
 		}
 	]
 }
-```
+'''
 - Thing you need to know:
 -"Effect": "Allow"
 <p> Tell whether to allow of deny. In this case allow.</p>
@@ -84,7 +85,6 @@ Here is a diagram to provide a sense of what the file structure of the project w
   <img width="600" src="https://github.com/jairajpatil8/Hosting-static-website-on-s3/blob/main/s3-images/url.png">
 </p>
 - Navigate to Static website hosting, and your should have your AWS Hosted Public URL ready.
-<br>
 - If you followed everything correctly your website should be live .
 
 
