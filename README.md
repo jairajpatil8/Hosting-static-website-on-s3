@@ -76,13 +76,14 @@ To complete this project, you will need the following:
 }
 ```
 - Thing you need to know:
--"Effect": "Allow"
+  
+- "Effect": "Allow"
 <p> Tell whether to allow of deny. In this case allow.</p>
--"Principal": "*"
+- "Principal": "*"
 <p> Defines who can perform the operation. "*" or "wildcard" mean anyone can perform this operation.</p>
--"Action": "s3:GetObject"
+- "Action": "s3:GetObject"
 <p>Define the level of acces to the bucket. In this case the user can perform only get object operation.</P>
--"Resource": "arn:aws:s3:::Bucket-name/*"
+- "Resource": "arn:aws:s3:::Bucket-name/*"
 <p>Define on what resource the specified permission are to be applied. In this case on your s3 bucket.<b> Replace "Bucket-name" with the name of your bucket.</b><p>
 - Click Save changes
 <b>Step 7 - Go Back to Properties</b>
