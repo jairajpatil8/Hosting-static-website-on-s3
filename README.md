@@ -56,7 +56,7 @@ Here is a diagram to provide a sense of what the file structure of the project w
 </p>
 - Go to bucket policy and click edit 
 
-''' diff
+``` diff
 {
 	"Version": "2012-10-17",
 	"Statement": [
@@ -69,7 +69,7 @@ Here is a diagram to provide a sense of what the file structure of the project w
 		}
 	]
 }
-'''
+```
 - Thing you need to know:
 -"Effect": "Allow"
 <p> Tell whether to allow of deny. In this case allow.</p>
