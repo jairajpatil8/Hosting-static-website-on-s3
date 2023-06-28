@@ -6,10 +6,9 @@
 
 To complete this project, you will need the following: 
 - AWS Account
-- Static Website 
-- Knowledge of Basic Linux Navigation and File Management. 
-Here is a diagram to provide a sense of what the file structure of the project will look like once you have completed the tutorial: 
- 
+- Static Website
+  
+
   
 <B>Step 1 — Login to your AWS console</B>
  <p align="center">
