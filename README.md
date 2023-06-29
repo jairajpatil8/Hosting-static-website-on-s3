@@ -6,6 +6,7 @@
 
 To complete this project, you will need the following: 
 - AWS Account
+- IAM S3 Policy Attached to Your User
 - Static Website
   
 
